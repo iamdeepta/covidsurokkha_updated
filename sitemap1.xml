@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://covidsurokkha.com/</loc>
+  <image:image>
+      <image:loc>https://covidsurokkha.com/assets/images/onlylogo.png</image:loc>
+      <image:caption>It is a logo of covidsurokkha</image:caption>
+      <image:geo_location>Bangladesh</image:geo_location>
+      <image:title>covidsurokkha logo</image:title>
+    </image:image>
+  <lastmod>2021-07-13T07:05:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://covidsurokkha.com/index.php?lang=bn</loc>
+  <image:image>
+      <image:loc>https://covidsurokkha.com/assets/images/onlylogo.png</image:loc>
+      <image:caption>It is a logo of covidsurokkha</image:caption>
+      <image:geo_location>Bangladesh</image:geo_location>
+      <image:title>covidsurokkha logo</image:title>
+    </image:image>
+  <lastmod>2021-07-13T07:05:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://covidsurokkha.com/index.php?lang=en</loc>
+  <image:image>
+      <image:loc>https://covidsurokkha.com/assets/images/onlylogo.png</image:loc>
+      <image:caption>It is a logo of covidsurokkha</image:caption>
+      <image:geo_location>Bangladesh</image:geo_location>
+      <image:title>covidsurokkha logo</image:title>
+    </image:image>
+  <lastmod>2021-07-13T07:05:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://covidsurokkha.com/symptom-checker.php?lang=bn</loc>
+  <image:image>
+      <image:loc>https://covidsurokkha.com/assets/images/onlylogo.png</image:loc>
+      <image:caption>It is a logo of covidsurokkha</image:caption>
+      <image:geo_location>Bangladesh</image:geo_location>
+      <image:title>covidsurokkha logo</image:title>
+    </image:image>
+  <lastmod>2021-07-13T07:05:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://covidsurokkha.com/symptom-checker.php?lang=en</loc>
+  <image:image>
+      <image:loc>https://covidsurokkha.com/assets/images/onlylogo.png</image:loc>
+      <image:caption>It is a logo of covidsurokkha</image:caption>
+      <image:geo_location>Bangladesh</image:geo_location>
+      <image:title>covidsurokkha logo</image:title>
+    </image:image>
+  <lastmod>2021-07-13T07:05:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+
+</urlset>

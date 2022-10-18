@@ -1,0 +1,9 @@
+RewriteEngine on
+
+RewriteRule ^symptom-checker$ symptom-checker.php [L]
+RewriteRule ^blogs$ blogs.php [L]
+RewriteRule ^about-us$ about-us.php [L]
+RewriteRule ^vaccine$ vaccine.php [L]
+RewriteRule ^approved-laboratories$ approved-laboratories.php [L]
+
+ErrorDocument 404 /404.php
